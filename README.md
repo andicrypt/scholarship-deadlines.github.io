@@ -1,14 +1,14 @@
-# Security and Privacy deadlines countdown
+# Higher scholarship deadlines countdown
 
-Based on [ai-deadlines](https://aideadlin.es) by @abshkdz
+Based on [sec-deadlines](https://sec-deadlines.github.io/) by [BogdanKulynych](https://twitter.com/hiddenmarkov) [Clement Fung](https://clementfung.github.io/)
 
-## Adding/updating a conference
+## Adding/updating a scholarship
 
 * Read the data format description below. **Note that the timezone format sign is inverted** (e.g., UTC+7 is written as `Etc/GMT-7`). It's [not a bug][0]. I hate this format too. I'd be happy to move to a different timezone JavaScript library that uses a friendlier format, but I don't have time for that.
 * Update `_data/conferences.yml`. You can do that on Github or locally after forking the repo.
 * Send a pull request
 
-### Conference entry record
+### Scholarship entry record
 
 Example record:
 
