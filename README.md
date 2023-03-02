@@ -1,6 +1,6 @@
 # Higher scholarship deadlines countdown
 
-Based on [sec-deadlines](https://sec-deadlines.github.io/) by [BogdanKulynych](https://twitter.com/hiddenmarkov) [Clement Fung](https://clementfung.github.io/)
+Based on [sec-deadlines](https://sec-deadlines.github.io/) by [BogdanKulynych](https://twitter.com/hiddenmarkov and [Clement Fung](https://clementfung.github.io/)
 
 ## Adding/updating a scholarship
 
